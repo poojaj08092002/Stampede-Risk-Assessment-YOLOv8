@@ -33,12 +33,21 @@ The system provides real-time color-coded alerts:
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/0713cc06-c33c-4b4d-9b4d-e5412123bae5" />
 
 
+
+
+
 🟡 Orange: High-risk / Early warning signs of instability.
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/48a5e90b-afec-451b-96d2-d750e97c407c" />
 
 
+
+
+
 🔴 Red: Stampede-prone / Critical panic detected.
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/e1f8ec0d-af31-43f4-a198-bd9bfc21d836" />
+
+
+
 
 
 Installation & Usage
