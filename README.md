@@ -30,10 +30,16 @@ Visual Results
 The system provides real-time color-coded alerts:
 
 🔵 Blue: Normal coordinated flow.
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/0713cc06-c33c-4b4d-9b4d-e5412123bae5" />
+
 
 🟡 Orange: High-risk / Early warning signs of instability.
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/48a5e90b-afec-451b-96d2-d750e97c407c" />
+
 
 🔴 Red: Stampede-prone / Critical panic detected.
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/e1f8ec0d-af31-43f4-a198-bd9bfc21d836" />
+
 
 Installation & Usage
 Prerequisites
@@ -52,6 +58,8 @@ Notebook/: Contains the .ipynb file with full implementation and sequential logs
 Weights/: Link to the trained YOLOv8 weights (refer to README for external link).
 
 Results/: Screenshot of the frame analysis results and confusion matrix.
+<img width="1083" height="484" alt="image" src="https://github.com/user-attachments/assets/3250b3c3-024b-4f99-b5fa-e4e65a7f07c7" />
+
 
 Citation
 If you find this work useful for your research, please cite our paper:
