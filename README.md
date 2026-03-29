@@ -1,5 +1,7 @@
 Motion Entropy-Driven Risk Assessment: A Real-Time Framework for Crowd Anomaly Detection from Surveillance Video
 Official GitHub repository for the paper: "Motion Entropy-Driven Risk Assessment: A Real-Time Framework for Crowd Anomaly Detection from Surveillance Video".
+Proposed System Diagram
+<img width="871" height="611" alt="image" src="https://github.com/user-attachments/assets/6e077b3e-1762-453a-8892-c720d632e003" />
 
 This research introduces a computationally efficient framework for real-time stampede risk assessment by integrating YOLOv8 for crowd localization, Farneback Optical Flow for motion analysis, and Shannon Entropy for quantifying crowd disorder.
 
